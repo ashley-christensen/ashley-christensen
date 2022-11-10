@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ashley</h1>
 <h3 align="center">A passionate Development, IT, and people</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashley-christensen&label=Profile%20views&color=0e75b6&style=flat" alt="ashley-christensen" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashley-christensen" alt="ashley-christensen" /></a> </p>
 
 - 🔭 I’m currently working on **Angular Projects**
@@ -25,3 +27,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashley-christensen&show_icons=true&locale=en&layout=compact" alt="ashley-christensen" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashley-christensen&show_icons=true&locale=en" alt="ashley-christensen" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashley-christensen&" alt="ashley-christensen" /></p>
