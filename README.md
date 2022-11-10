@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Angular Projects**
 
-- 🌱 I’m currently learning **Networking, AWS, DevOps, IT**
+- 🌱 I’m currently learning **Networking, Cloud, DevOps, IT**
 
 - 👨‍💻 All of my projects are available at [https://ashley-christensen.netlify.app/](https://ashley-christensen.netlify.app/)
 
