@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashley-christensen" alt="ashley-christensen" /></a> </p>
 
-- 🔭 I’m currently working on **Kubernetes and Angular/Typescript**
+- 🔭 I’m currently working on **MERN Stack **
 
-- 🌱 I’m currently learning **Networking, Cloud, DevOps, IT**
+- 🌱 I’m currently learning **NodeJS + Express**
 
 - 👨‍💻 All of my projects are available at [https://ashley-christensen.netlify.app/](https://ashley-christensen.netlify.app/)
 
-- 💬 Ask me about **Meditation**
+- 💬 Ask me about **Meditation [Vipassana] **
 
 - 📫 How to reach me **ReactAndFloat@gmail.com**
 
