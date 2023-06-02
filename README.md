@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Ashley</h1>
-<h3 align="center">I'm passionate about Tech, Innovation, and people</h3>
+<h3 align="center">I'm passionate about Tech, Innovation, and People</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashley-christensen" alt="ashley-christensen" /></a> </p>
 
