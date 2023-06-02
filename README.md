@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ReactAndFloat@gmail.com**
 
-- ⚡ Fun fact **I love to feed stray cats**
+- ⚡ Fun fact **Contrary to most, I enjoy long treadmill runs**
 
 <h3 align="left">Connect with me!</h3>
 <p align="left">
